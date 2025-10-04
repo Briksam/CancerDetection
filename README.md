@@ -104,6 +104,20 @@ pip install torch torchvision pandas numpy scikit-learn keras_preprocessing matp
 
 ---
 
+## 🏆 Related Kaggle Competitions
+
+The project components correspond to the following Kaggle competitions:
+
+1. **Breast Cancer Metastases Detection (Medical Image Classification)**  
+   [BAU AIN2001 Fall22 A3P1](https://www.kaggle.com/competitions/bau-ain2001-fall22-a3p1/overview)
+
+2. **Breast Cancer Percent Metastases Prediction (Metastasis Ratio Regression)**  
+   [BAU AIN2001 Fall22 A3P2](https://www.kaggle.com/competitions/bau-ain2001-fall22-a3p2)
+
+3. **Cancer Grade Extraction from Pathology Reports (NLP Classification)**  
+   [BAU AIN2001 Fall22 A4](https://www.kaggle.com/competitions/bau-ain2001-fall22-a4)
+
+
 ## 🔮 Future Improvements
 
 * ✅ Replace hardcoded paths with **config files or CLI arguments**.
